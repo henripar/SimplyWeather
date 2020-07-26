@@ -14,3 +14,5 @@ and create a config.js file where you will add your new API key.
   API_KEY: "YOUR_API_KEY"  
  }
  ```
+## Demo
+You can check the demo for this app [here](https://henripar.github.io/SimplyWeather1/)
